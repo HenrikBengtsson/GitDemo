@@ -2,6 +2,6 @@
 
 For the Git / GitHub crash course
 
-## Background
+## Backgrounds
 See Google [website](http://www.google.com/).
 
