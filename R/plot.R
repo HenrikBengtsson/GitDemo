@@ -1,4 +1,3 @@
 x <- 1:10
-str(x)
-plot(x, x^2)
+plot(x, x^2, col="red")
 
